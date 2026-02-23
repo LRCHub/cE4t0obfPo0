@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "パラサイトピアノ",
+  "base_artist": "宮下遊",
+  "createdAt": "2026-02-23T10:35:02.592599Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パラサイトピアノ",
+      "artist": "宮下 遊",
+      "has_synced": false,
+      "path": "select/pl_01_パラサイトピアノ_宮下_遊.txt"
+    }
+  ]
+}
